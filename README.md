@@ -1,5 +1,6 @@
 # Prolog-problems
 These five exercises were implemented as an assignment for the course Principles of Programming Languages.
+All the problems were tested using the SWI-Prolog environment.
 
 **biscuits.pl**  
 Little Mitsos has K ≥ 100 biscuits and N ≥ 1 friends. He decided to share the biscuits in an unusual and unfairly way:
